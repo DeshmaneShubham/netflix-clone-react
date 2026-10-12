@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  background-color: #141414;  /* Netflix dark */
+  color: #ffffff;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
